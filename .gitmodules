@@ -1,0 +1,6 @@
+[submodule "auth-alu0100943849"]
+	path = auth-alu0100943849
+	url = https://github.com/ULL-ESIT-DSI-1819/auth-alu0100943849.git
+[submodule "server-auth-alu0100943849"]
+	path = server-auth-alu0100943849
+	url = https://github.com/ULL-ESIT-DSI-1819/server-auth-alu0100943849.git
